@@ -26,6 +26,6 @@ This repository contains SQL scripts to design and interact with a normalized ac
 ### ✅ Part D - Access Control
 - Grants `SELECT` access on `Courses` to `viewer_user`
 
-## 📜 Sample Query Output
+ 
 
 
