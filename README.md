@@ -1,4 +1,4 @@
-# -department-course-schema
+# department-course-schema
 
 This repository contains SQL scripts to design and interact with a normalized academic database involving departments and courses.
 
